@@ -1,0 +1,29 @@
+.container-main {
+    min-height: 100vh;
+    max-width: 100%;
+    font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    margin: 50px 30px 20px 30px;
+}
+
+.container-titulo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+    margin-right: auto;
+    margin-bottom: 80px;
+
+}
+
+.container-pokemons {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-pares-pokemons {
+    display: flex;
+}
